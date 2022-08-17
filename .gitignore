@@ -1,4 +1,11 @@
-node_modules
+# next.js
+/.next/
+/out/
+
+/node_modules
+/build
+/dist
+
 package-lock.json
 
 
@@ -20,3 +27,33 @@ lerna-debug.log*
 .cache
 
 .DS_Store
+.next/trace
+.next/trace
+.next/cache/webpack/client-development/0.pack
+.next/cache/webpack/client-development/1.pack
+.next/cache/webpack/client-development/2.pack
+.next/cache/webpack/client-development/index.pack
+.next/cache/webpack/client-development/index.pack.old
+.next/cache/webpack/server-development/2.pack
+.next/cache/webpack/server-development/index.pack
+.next/cache/webpack/server-development/index.pack.old
+.next/server/pages-manifest.json
+.next/server/webpack-runtime.js
+.next/static/chunks/webpack.js
+.next/static/chunks/pages/_app.js
+.next/static/chunks/pages/index.js
+.next/cache/webpack/client-development/0.pack
+.next/cache/webpack/client-development/1.pack
+.next/cache/webpack/client-development/2.pack
+.next/cache/webpack/client-development/index.pack
+.next/cache/webpack/client-development/index.pack.old
+.next/cache/webpack/server-development/1.pack
+.next/cache/webpack/server-development/2.pack
+.next/cache/webpack/server-development/index.pack
+.next/cache/webpack/server-development/index.pack.old
+.next/server/pages-manifest.json
+.next/server/webpack-runtime.js
+.next/server/pages/index.js
+.next/static/chunks/webpack.js
+.next/static/chunks/pages/_app.js
+.next/static/chunks/pages/index.js
